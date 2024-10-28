@@ -1,0 +1,1 @@
+Platform: win32, Hostname: LAPTOP-OCQRJOEL, Architecture: " + x64

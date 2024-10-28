@@ -1,0 +1,8 @@
+1. Message is declared after its called. It needs to be declared before
+
+2. Message is declared after its called. It needs to be declared before
+
+3. When showMessage function is called in console.log, program moves to that function and it runs it. As a result,
+    it returns a string that gets printed in the console.
+
+4. Function can be declared after its called. It will still work because the function is hoisted to the top of the code.
