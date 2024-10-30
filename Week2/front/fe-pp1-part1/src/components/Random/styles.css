@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.random {
+  border: 1px solid #000;
+  display: flex;
+  margin: 20px;
+  padding: 10px;
+}

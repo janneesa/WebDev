@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  border: 1px solid #000;
+  display: flex;
+  margin: 20px;
+  padding: 10px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.5rem;
+  justify-content: space-around;
+}
