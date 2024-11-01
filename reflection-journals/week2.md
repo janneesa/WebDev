@@ -1,74 +1,81 @@
 # Journal
 
-----
-## Links
-- Link(s) to Group activities: 
-  - 
-  - 
-- Links to Pair programming: 
-  - 
-  - 
+---
 
-----
+## Links
+
+- ## Link(s) to Group activities:
+  -
+- Links to Pair programming:
+  - FEPP1: https://github.com/janneesa/WebDev/tree/main/Week2/front/fe-pp1-part1
+  - FEPP2: https://github.com/janneesa/WebDev/tree/main/Week2/front/fe-pp1-part2
+
+---
+
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-- Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+- Name: Janne Savinainen
+  Rate: 5
+  Justify Your Answer: I have high motivation for this course. I started doing tailwind css and figma courses on my free time.
+  I think in pair programming i performed well.
 
-----
+- Name: Mikko Saarela
+  Rate: 5
+  Justify Your Answer: I did pair programming with Mikko. We both ended up doing both parts of the pair programming
+  with each others help.
+
+- Name: Samuel Puhakka
+  Rate: 5
+  Justify Your Answer: I think Samuel´s performance has been good. We haven´t done any pair or programming yet,
+  but he said he can do some slides to our sprint1 presentation.
+
+- Name: Roni Ström
+  Rate: -
+  Justify Your Answer: Roni wasn´t present during the first week and half of second week.
+
+---
 
 ## Reflection
 
-Please use utilize this template to write your reflections.
-
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+There is lots of stuff to do in this course. I have not faced any challenges in coding. So far only challenge has been how to manage time between hobbies and watching the videos before lessons.
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+I think pair programming went well. My only challenges was to get the images to show.
+That was because i forgot that the images had to be imported first. Learning React and Tailwind has been fun.
 
-- Key Learning:
+- Key Learning: I have learned lots of stuff like: Postman, React, using command line/git bash, figma and tailwind
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
-
-- Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+- Online Resources: I started Tailwind css course and Figma course from O´REILLY.
+  Also im planning to finish react 18 Tutorial video https://www.youtube.com/watch?v=Flbw5BX_AX0.
+  These online courses and resources have been very useful get more skills.
 
 ### Coping Strategies:
 
+- Academic Progress: I have improved on my ability to learn. This course has very good idea to watch videos before lessons
+  and then we learn more about them during the lectures and finally do activity. I think learning like this
+  fits me very well.
 
-- Academic Progress:
-
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
-
-- Soft Skills Development:
-
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+- Soft Skills Development: I think I already have pretty good soft skills. I do need to maybe get better at
+  getting my group members to talk more. Im working with the same people i was working last period so we have pretty good group spirit.
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+I like the idea of SCRUM. I dont know if we are going to have daily scrum everyday, but lets see.
+Making user stories seems to be good idea to start planning the project.
 
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+Looking back on this week's experiences, I'm proud of my efforts in the pair programming and my effort to do Tailwind css course after school. I have not faced major challenges so far but, I'm excited to continue building my skills and knowledge.
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
-
+For the upcoming week I am going to learn more tailwind and react.
 
 <!-- Links -->
-[criticism and constructive feedback]:https://cvdl.ben.edu/blog/why-is-everyone-talking-about-feedback/
 
-
-
-
-
-
+[criticism and constructive feedback]: https://cvdl.ben.edu/blog/why-is-everyone-talking-about-feedback/
