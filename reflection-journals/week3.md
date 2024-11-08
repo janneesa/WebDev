@@ -4,12 +4,11 @@
 
 ## Links
 
-- Link(s) to Group activities:
-  -
+- ## Link(s) to Group activities:
   -
 - Links to Pair programming:
   - BEPP1: https://github.com/janneesa/BE-PAIR-PROG1
-  -
+  - FEPP2: https://github.com/Zatzou/week3-fe-pair-programming
 
 ---
 
@@ -17,53 +16,61 @@
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-- Group Member's Name
-  Rate on a Scale of 1-5
-  Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+- Name: Janne Savinainen
+  Rate: 5
+  Justify Your Answer: I have continued to learn more tailwind css and react. I am putting lots of effort in to group work and the project. During sprint 1 i made the wireframe and helped with the slideshow. we got very good feedback so i belive my effort was good.
+
+- Name: Mikko Saarela
+  Rate: 5
+  Justify Your Answer: During sprint 1 mikko made most of the product backlog. I think hes effort was good and results very good aswell.
+
+- Name: Samuel Puhakka
+  Rate: 4
+  Justify Your Answer: Samuels performance has been good, but i think he could have been better in terms of communicating. In example our group had agreed to do meeting at 12 o´clock. He messaged us 11:50 that we need to move it to 18 o´clock without any explanation. I understand that we all have our own schedules and sometimes "life happens" and schedules change, but i think he could have done that better by saying sorry and offering some type of explanation.
+
+- Name: Roni Ström
+  Rate: 5
+  Justify Your Answer: Roni has been very good at cathing up after being away for the first week. He has been communicating very well also.
 
 ---
 
 ## Reflection
 
-Please use utilize this template to write your reflections.
-
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+I had little difficulties with understanding middlewares and how to use them. but i watched a video tutorial: https://www.youtube.com/watch?v=lY6icfhap2o that helped me understand it a lot more. Also i think splitting express server files in to many components (MVC) had me little confused at the start, but it made sense at the end
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+I learned what is middleware and how to use it in express server. I learned more about react and tailwind too. I am more confident in creating and styling components. For our project i find it easier to create pre-styled elements from tailwind classes. Example i create a single class for button in index.css that applies many tailwind classes at once.
 
-- Key Learning:
+In pair programming I was paired with Sasu. Clearly he had more experience in coding than me, but luckily i didnt face any big problems during the coding. Also he was helpful when i had some small mistakes. He was very fast at coding so maybe I would like to be paired with someone who likes to code a little slower.
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+- Key Learning: I think i have been putting most of my effort in to tailwind this week. I can understand tailwind classes now pretty well but creating pretty components still needs more practice.
 
-- Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+- Online Resources: (Middleware) https://www.youtube.com/watch?v=lY6icfhap2o
 
 ### Coping Strategies:
 
 - Academic Progress:
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+I have defenetly learned to plan projects and tasks better. For sprint 1 we got very good feedback and points.
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+I think i have been communicating well with my group. I try to take a small group leader role as scrum master because my group members dont usually talk or tell their ideas unless i ask. So whenever i have an idea i try to ask everyones opinion about it.
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+We had meeting about sprint 2. First it was hard to decide how we should move forward but we were able to divide interesting tasks to everybody. I think it was hard at first since nobody had anything to say or was afraid to say it. After i started asking what everybody wanted to do and presented ideas how we should maybe proceed we were able to complete the planning.
 
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+This past week has been very fun and i have learned lots of new stuff. I am proud of myself and my group members. We worked well during sprint 1 and i am excited to start sprint 2.
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+I am defenetly going to study more react during the next week. I am gonna take it easier with tailwind and focus on react components and jsx syntax.
 
 <!-- Links -->
 
