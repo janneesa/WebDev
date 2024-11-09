@@ -8,7 +8,7 @@
   -
 - Links to Pair programming:
   - BEPP1: https://github.com/janneesa/BE-PAIR-PROG1
-  - FEPP2: https://github.com/Zatzou/week3-fe-pair-programming
+  - FEPP1: https://github.com/Zatzou/week3-fe-pair-programming
 
 ---
 
