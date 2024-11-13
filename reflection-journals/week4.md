@@ -8,7 +8,7 @@
   -
 - Links to Pair programming:
   - BEPP1: https://github.com/janneesa/BE-PAIR-PROG-WEEK4/tree/main/week4-be-pp (did this solo because I was away on monday)
-  -
+  - FEPP1: https://github.com/janneesa/WEEK4-FE-PP (Done with Teemu)
 
 ---
 
