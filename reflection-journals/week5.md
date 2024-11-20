@@ -4,12 +4,11 @@
 
 ## Links
 
-- Link(s) to Group activities:
-  -
+- ## Link(s) to Group activities:
   -
 - Links to Pair programming:
   - BEPP1: https://github.com/janneesa/WEEK5-BE-PP
-  -
+  - FEPP1: https://github.com/Hetahar/week5-fe-pp
 
 ---
 
