@@ -3,32 +3,31 @@ const mongoose = require("mongoose");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken"); // Import jwt module
 const saltRounds = 10;
-const requireAuth = require('./requireAuth')
-const User = require('./userModel')
+const requireAuth = require("./requireAuth");
+const User = require("./userModel");
 
 const app = express();
 app.use(express.json());
 
-const SECRET="secretword"
+const SECRET = "secretword";
 const createToken = (_id) => {
-  return jwt.sign({ _id }, SECRET, { expiresIn: '3d' });
-}
+  return jwt.sign({ _id }, SECRET, { expiresIn: "3d" });
+};
 
 // Connect to MongoDB database
 mongoose
-  .connect(
-    "mongodb://localhost:27017/web-dev"
-  )
+  .connect("mongodb://localhost:27017/web-dev")
   .then(() => console.log("Connected to MongoDB"))
   .catch((err) => console.error("Failed to connect to MongoDB", err));
-
 
 // Define the protected route
 app.get("/api/protectedroute", requireAuth, async (req, res) => {
   // If the execution reaches here, it means the user is authenticated
   // You can access the authenticated user's information from req.user
-  res.status(200).json({ message: "Protected route accessed successfully", user: req.user });
-});  
+  res
+    .status(200)
+    .json({ message: "Protected route accessed successfully", user: req.user });
+});
 
 // Endpoint for user registration
 app.post("/api/users", async (req, res) => {
@@ -68,7 +67,6 @@ app.post("/api/users/login", async (req, res) => {
 
   res.status(200).json({ message: "Authentication successful", token });
 });
-
 
 // Endpoint to fetch all users
 app.get("/api/users", async (req, res) => {

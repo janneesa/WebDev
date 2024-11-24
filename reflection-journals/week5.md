@@ -16,9 +16,21 @@
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-- Group Member's Name
-  Rate on a Scale of 1-5
-  Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+- Name: Janne Savinainen
+  Rate: 5
+  Justify Your Answer: I put in solid effort during sprint 2. I did pair programming with Heta. I feel like we learned new things from each others.
+
+- Name: Mikko Saarela
+  Rate: 5
+  Justify Your Answer: Mikko managed to make some good code for our project and has been better at communication.
+
+- Name: Samuel Puhakka
+  Rate: 5
+  Justify Your Answer: Samuel has been putting more effort for our project which has been amazing.
+
+- Name: Roni Ström
+  Rate: 5
+  Justify Your Answer: Ronis performance has been good and he is good at communicating with the group.
 
 ---
 
@@ -28,41 +40,33 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+I faced some challenges during backend pair programming. It is defenetly because i have been working so much on the frontend
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+I learned to hash passwords and how to handle login in the backend. I have learned to use useEffect and fetch data to the frontend.
 
-- Key Learning:
+- Key Learning: hashing passwords
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
-
-- Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+- Online Resources: no extra online resources this week
 
 ### Coping Strategies:
 
-- Academic Progress:
+- Academic Progress: I improved on the backend during weekend because i did some recapping on backend.
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
-
-- Soft Skills Development:
-
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+- Soft Skills Development: I have learned to engage my group members more by asking them about their opinions more directly.
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+Using Trello for project managment has been very good.
 
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+This week went by really fast and i didnt have time to recap backend as much as i would have wanted. Next week im going to recap more backend while learning new stuff about it. pair programming with Heta was fun. Project is in a very good shape.
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+Recap more backend and make some more time for schoolwork.
 
 <!-- Links -->
 
