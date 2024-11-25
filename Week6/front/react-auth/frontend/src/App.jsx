@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(
-    JSON.parse(localStorage.getItem("user")) || false
+    JSON.parse(sessionStorage.getItem("user")) || false
   );
   return (
     <>
@@ -20,7 +20,7 @@ function App() {
           <Routes>
             <Route
               path="/"
-              element={isAuthenticated ? <Home /> : <Navigate to="/signup" />}
+              element={isAuthenticated ? <Home /> : <Navigate to="/login" />}
             />
             <Route
               path="/login"
