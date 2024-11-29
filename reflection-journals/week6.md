@@ -5,10 +5,10 @@
 ## Links
 
 - ## Link(s) to Group activities:
-  -
-- Links to Pair programming:
+  - CM2: https://github.com/janneesa/GroupProgramming2
+- ## Links to Pair programming:
   - BEPP1: https://github.com/janneesa/WEEK6-BE-PP
-  -
+  - FEPP1: https://github.com/janneesa/WEEK6-FE-PP
 
 ---
 
