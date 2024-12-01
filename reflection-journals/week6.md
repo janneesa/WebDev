@@ -16,9 +16,21 @@
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-- Group Member's Name
-  Rate on a Scale of 1-5
-  Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+- Name: Janne Savinainen
+  Rate: 4
+  Justify Your Answer: I felt a bit tired this week and i feel like i couldnt give 100% all the time.
+
+- Name: Mikko Saarela
+  Rate: 5
+  Justify Your Answer: Mikko has been making good effort for the project.
+
+- Name: Samuel Puhakka
+  Rate: 4
+  Justify Your Answer: Samuel is not super active in communication, but he does what we ask him to do. Sometimes it takes a bit of time generally he performs well in my opinion.
+
+- Name: Roni Ström
+  Rate: 5
+  Justify Your Answer: Roni has been putting a lot of effort in our group project to create messaging feature.
 
 ---
 
@@ -28,41 +40,37 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+I was a bit tired this week and i couldnt fully focus all the time.
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+I worked on the backend during coding marathon and it was good since i got to recap backend stuff a bit more.
 
-- Key Learning:
+- Key Learning: JW Token and mongoose schema
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
-
-- Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+- Online Resources: no extra material this week
 
 ### Coping Strategies:
 
 - Academic Progress:
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+We got perfect points for sprint 2 and coding marathon 2.
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+During coding marathon 2 we were all really tired and we finished the project later on the evening after school ended so i think we all learned patience and how to keep calm even though we were all tired.
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+managing project on trello and having daily scrums has been very helpful to keep everyone on track about the project.
 
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+Looking back on this week's experiences, I'm proud of our groups effort in the coding marathon 2. we managed to deploy both front- and backend to render. I have been making good progress on my tasks regarding our project.
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+Next week im gonna try to rest more so i can fully focus on the school and learn everything there is to learn before the exam.
 
 <!-- Links -->
 
