@@ -4,12 +4,11 @@
 
 ## Links
 
-- Link(s) to Group activities:
-  -
+- ## Link(s) to Group activities:
   -
 - Links to Pair programming:
   - FEPP1: https://github.com/mkksrl/week7-fepp
-  -
+  - BEPP1: https://github.com/janneesa/WEEK7-BE-PP1
 
 ---
 
